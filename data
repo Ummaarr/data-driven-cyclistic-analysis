@@ -1,0 +1,2 @@
+You can download the original datasets from: https://divvy-tripdata.s3.amazonaws.com/index.html
+Place the files in the /data/ folder before running the notebook.
